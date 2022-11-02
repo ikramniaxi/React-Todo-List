@@ -1,0 +1,2 @@
+import c from './module2.mmjs'
+console.log(c);

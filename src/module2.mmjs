@@ -1,0 +1,5 @@
+const a="ikram";
+const b="ibrar";
+const c="ahmad";
+const d="abid";
+export default c;
